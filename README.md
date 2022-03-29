@@ -4,7 +4,7 @@
 # - Programación etiquetas
 # - Crear repositorio
 # - Diseñar hardware
-# Trabajp pendiente: 
+# Trabajo pendiente: 
 # -
 # -
 # -
